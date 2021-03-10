@@ -10,8 +10,7 @@ Estudiante en la Universidad Nacional de San Martín.
 .
 Programador especializado en Android con lenguaje Java. Conocimientos en PHP, C, HTML y CSS:
 .
-Mi primer app en Google Play Store: play.google.com/store/apps/details?id=commm.doggy
-.
+play.google.com/store/apps/details?id=commm.doggy
 
 
 
